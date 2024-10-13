@@ -1,5 +1,18 @@
+// import Hero from '/Hero'
+
 export default function Home() {
+  
+  
   return (
-   <main></main>
+  <main>
+    {/* <Hero/>
+    <HeaderTop/>
+    <HeaderMain/>
+    <Categories/>
+    <ProductList/>
+    <Footer/>
+  */}
+  </main>
   );
 }
+
